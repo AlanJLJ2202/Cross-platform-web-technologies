@@ -1,0 +1,14 @@
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/bin/Debug/net7.0/MyCompany.Intranet.Console
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/bin/Debug/net7.0/MyCompany.Intranet.Console.deps.json
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/bin/Debug/net7.0/MyCompany.Intranet.Console.runtimeconfig.json
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/bin/Debug/net7.0/MyCompany.Intranet.Console.dll
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/bin/Debug/net7.0/MyCompany.Intranet.Console.pdb
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/MyCompany.Intranet.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/MyCompany.Intranet.Console.AssemblyInfoInputs.cache
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/MyCompany.Intranet.Console.AssemblyInfo.cs
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/MyCompany.Intranet.Console.csproj.CoreCompileInputs.cache
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/MyCompany.Intranet.Console.dll
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/refint/MyCompany.Intranet.Console.dll
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/MyCompany.Intranet.Console.pdb
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/MyCompany.Intranet.Console.genruntimeconfig.cache
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Console/obj/Debug/net7.0/ref/MyCompany.Intranet.Console.dll
