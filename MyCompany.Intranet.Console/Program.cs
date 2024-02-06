@@ -1,25 +1,33 @@
-﻿
+﻿using System;
+using MyCompany.Intranet.Core.Entities;
+using MyCompany.Intranet.Core.Enums;
+using MyCompany.Intranet.Core.Managers;
+using MyCompany.Intranet.Core.Services;
+
 public static class Program {
     public static void Main(string[] args) {
-       double sueldo = 0;
-       string nombre = "";
-       int horas_trabajadas = 0;
-       double sueldo_por_hora = 20;
 
-        System.Console.WriteLine("Ingrese el nombre del empleado: ");
-        nombre = System.Console.ReadLine();
-        System.Console.WriteLine("Ingrese las horas trabajadas: ");
-        horas_trabajadas = int.Parse(System.Console.ReadLine());
+        float altura = 0;
+        float peso = 0;
 
-        if (horas_trabajadas > 40)
-        {
-            sueldo = (40 * sueldo_por_hora) + ((horas_trabajadas - 40) * (25));
-        }
-        else
-        {
-            sueldo = horas_trabajadas * sueldo_por_hora;
-        }
+        System.Console.WriteLine("Please enter the Weight");
+        Single.TryParse(System.Console.ReadLine(), out peso);
 
-        System.Console.WriteLine("El empleado " + nombre + " trabajó " + horas_trabajadas + " horas y su sueldo es de " + sueldo + " pesos. MXN");
+
+        System.Console.WriteLine("Please enter the Height");
+        Single.TryParse(System.Console.ReadLine(), out altura);
+
+
+        var Bmi = new Bmi();
+        var person = new Person{Weight = peso, Height = altura};
+
+        var service = new BmiService();
+        var managers = new BmiManager(service);
+
+        Bmi bmi = managers.GetBmi(person);
+
+        System.Console.WriteLine($"BMI {bmi.Index} Type {bmi.BmiType}");
+
+        
     }
 }

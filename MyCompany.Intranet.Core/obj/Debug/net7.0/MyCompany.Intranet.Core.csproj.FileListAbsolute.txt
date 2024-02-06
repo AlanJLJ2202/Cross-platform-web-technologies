@@ -1,0 +1,4 @@
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.AssemblyInfoInputs.cache
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.AssemblyInfo.cs
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.csproj.CoreCompileInputs.cache

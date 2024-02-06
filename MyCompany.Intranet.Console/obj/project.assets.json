@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "MyCompany.Intranet.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MyCompany.Intranet.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCompany.Intranet.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyCompany.Intranet.Core/1.0.0": {
+      "type": "project",
+      "path": "../MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj",
+      "msbuildProject": "../MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "MyCompany.Intranet.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/alanjlj/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj": {
+              "projectPath": "/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
