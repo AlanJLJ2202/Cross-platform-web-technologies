@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6sp8abfgdlJmNykTgKO/c8I8HOHWLVbldJ/r3RuiYd4=",
+  "Source": "MyCompany.Intranet.WebApi",
+  "BasePath": "_content/MyCompany.Intranet.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

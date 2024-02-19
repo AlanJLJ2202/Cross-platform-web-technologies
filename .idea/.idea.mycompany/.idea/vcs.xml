@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../app_projects/welcome-to-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../bot-whatsapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../mean-web-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../python_projects/AI_PROJECT_1P" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../python_projects/MultilayerNetwork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../python_projects/ai_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../python_projects/xetra_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bot-whatsapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../laravel-whatsapp-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../phisio-t" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../t_app_web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/apps/armet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/apps/chiles_selectos_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/apps/epca-alumnos-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/apps/etiek_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/apps/labodega-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/apps/muebleria_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/chiles_app_web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/chiles_sistema_v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm/crm_e_multimedia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm_microservices/cliente_microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm_microservices/oportunidades_microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm_microservices/promesas_pago_microservicio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm_microservices/sam_microservicio_contratos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm_microservices/sam_microservicio_inmuebles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm_microservices/sam_microservicio_movimientos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/crm_microservices/sam_microservicio_planes_pagos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/doctores" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/erp_ianndey_v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/gym" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/labodega" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/misxv-laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/muebles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/my-nest-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/pv_corvuz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/t_app_web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/talentex_web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/transfarma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/tropicana10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Gitlab/web/vanity_house_miami" vcs="Git" />
+  </component>
+</project>

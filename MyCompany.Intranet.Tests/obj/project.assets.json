@@ -1708,6 +1708,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "MyCompany.Intranet.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MyCompany.Intranet.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCompany.Intranet.Core.dll": {}
+        }
       }
     }
   },
@@ -5500,11 +5510,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "MyCompany.Intranet.Core/1.0.0": {
+      "type": "project",
+      "path": "../MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj",
+      "msbuildProject": "../MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.NET.Test.Sdk >= 17.7.1",
+      "MyCompany.Intranet.Core >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5534,7 +5550,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj": {
+              "projectPath": "/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/MyCompany.Intranet.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

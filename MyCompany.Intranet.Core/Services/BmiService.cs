@@ -1,13 +1,16 @@
 using MyCompany.Intranet.Core;
+using MyCompany.Intranet.Core.Entities;
+using MyCompany.Intranet.Core.Enums;
 using MyCompany.Intranet.Core.Managers;
 using MyCompany.Intranet.Core.Services;
+using MyCompany.Intranet.Core.Services.Interfaces;
 
 
 namespace MyCompany.Intranet.Core.Services;
 
 
 
-public class BmiService : IBmiService{
+public class BmiService : IBmiService {
     public Bmi ProcessBmi(Person person){
         var bmi = new Bmi();
         bmi.Index = person.Weight / (person.Height * person.Height);

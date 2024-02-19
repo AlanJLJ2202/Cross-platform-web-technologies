@@ -2,3 +2,10 @@
 /Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.AssemblyInfoInputs.cache
 /Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.AssemblyInfo.cs
 /Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.csproj.CoreCompileInputs.cache
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/bin/Debug/net7.0/MyCompany.Intranet.Core.deps.json
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/bin/Debug/net7.0/MyCompany.Intranet.Core.dll
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/bin/Debug/net7.0/MyCompany.Intranet.Core.pdb
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.dll
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/refint/MyCompany.Intranet.Core.dll
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/MyCompany.Intranet.Core.pdb
+/Users/alanjlj/Software/Github/web_projects/mycompany/MyCompany.Intranet.Core/obj/Debug/net7.0/ref/MyCompany.Intranet.Core.dll
